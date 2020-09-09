@@ -8,4 +8,4 @@ This application is part of <a href="">iOS Application Development Bootcamp</a> 
 <img src="Screenshots/WelcomeScene.png" width="250"> <img src="Screenshots/NewsScene.png" width="250">
 
 ## Technologies
-<a href="">Swift Programming Language</a> | <a href="">SwiftUI</a> | <a href="">WebKit</a>
+<a href="http://developer.apple.com/documentation/swift">Swift Programming Language</a> | <a href="http://developer.apple.com/documentation/swiftui">SwiftUI</a> | <a href="https://developer.apple.com/documentation/webkit">WebKit</a> | JSON Parsing

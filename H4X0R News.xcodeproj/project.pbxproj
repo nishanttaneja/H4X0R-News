@@ -65,10 +65,18 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
+		B410210425095D9600630AEC /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		B47B4387250914C800BA44F0 = {
 			isa = PBXGroup;
 			children = (
 				B47B43A72509152900BA44F0 /* README.md */,
+				B410210425095D9600630AEC /* Screenshots */,
 				B47B4392250914C800BA44F0 /* H4X0R News */,
 				B47B4391250914C800BA44F0 /* Products */,
 			);
