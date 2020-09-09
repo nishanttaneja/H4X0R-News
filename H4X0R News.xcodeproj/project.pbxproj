@@ -23,8 +23,10 @@
 		B41020FC250950DF00630AEC /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		B41021002509566900630AEC /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		B4102102250956FF00630AEC /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
-		B410210525095E5900630AEC /* NewsScene.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NewsScene.png; sourceTree = "<group>"; };
-		B410210625095E5900630AEC /* WelcomeScene.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WelcomeScene.png; sourceTree = "<group>"; };
+		B410210525095E5900630AEC /* NewsSceneLight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NewsSceneLight.png; sourceTree = "<group>"; };
+		B410210625095E5900630AEC /* WelcomeSceneLight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WelcomeSceneLight.png; sourceTree = "<group>"; };
+		B410210725095F9C00630AEC /* NewsSceneDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NewsSceneDark.png; sourceTree = "<group>"; };
+		B410210825095F9C00630AEC /* WelcomeSceneDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WelcomeSceneDark.png; sourceTree = "<group>"; };
 		B47B4390250914C800BA44F0 /* H4X0R News.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "H4X0R News.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B47B4393250914C800BA44F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B47B4395250914C800BA44F0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -70,8 +72,10 @@
 		B410210425095D9600630AEC /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				B410210525095E5900630AEC /* NewsScene.png */,
-				B410210625095E5900630AEC /* WelcomeScene.png */,
+				B410210525095E5900630AEC /* NewsSceneLight.png */,
+				B410210725095F9C00630AEC /* NewsSceneDark.png */,
+				B410210825095F9C00630AEC /* WelcomeSceneDark.png */,
+				B410210625095E5900630AEC /* WelcomeSceneLight.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
